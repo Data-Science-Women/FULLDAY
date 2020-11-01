@@ -28,7 +28,7 @@
 
 ## Videos:
 
-Les compartimos los links de los videos del **Full Day de Power BI** del 24 de octubre:
+Les compartimos los links de los videos del ** I Full Day de Power BI** del 24 de octubre:
 
 - [DSW Power BI Parte 1](http://bit.ly/DSW_FullDay_Power_BI_Parte1)
 
