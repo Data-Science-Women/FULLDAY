@@ -12,3 +12,4 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 Aquí podrán revisar todo el material compartidos por los ponentes, esperamos que pueda colaborar con tu crecimiento profesional y sobre todo ampliar tu mundo en las tecnologías 
+
