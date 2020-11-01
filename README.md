@@ -1,4 +1,4 @@
-# FullDay
+# FULLDAY
 
 <!-- PROJECT LOGO -->
 <br />
